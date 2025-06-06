@@ -1,0 +1,18 @@
+# Ignore BlueJ-specific files
+*.class
+*.ctxt
+*.pkg
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files (if ever opened in IntelliJ/Eclipse later)
+*.iml
+.idea/
+*.log
+*.ipr
+*.iws
+target/
+bin/
+out/
